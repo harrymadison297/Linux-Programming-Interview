@@ -8,7 +8,8 @@
 [Understanding Linux Kernel.pdf](/Books/Understanding%20Linux%20Kernel.pdf)
 
 ## Linux covered topics
-### 1. Process [Read here](/QA/Process.md)
+### 1. Process 
+[Read here](/QA/Process.md)
 * Process definition
 	* PID, PPID
 	* Command line argument
@@ -44,7 +45,8 @@
 * Daemon process
 	* Definition
 	* How to create a daemon process
-### 2. Threads [Read here](/QA/Thread.md)
+### 2. Threads 
+[Read here](/QA/Thread.md)
 * Definition
 
     ![](/Assets/Thread_memory_layout.png)
@@ -63,13 +65,18 @@
 * Thread synchronization
   * Mutexes
   * Condition variables
-### 3. Inter-Process Communication [Read here](/QA/IPC.md)
+### 3. Inter-Process Communication 
+[Read here](/QA/IPC.md)
    
    ![](/Assets/ipc.png)
-### 4. File System Management [Read here](/QA/FileSystem.md)
-### 5. Memory [Read here](/QA/Memory.md)
-### 6. Networking [Read here](/QA/Networking.md)
-### 7. Other [Read here](/QA/Other.md)
+### 4. File System Management 
+[Read here](/QA/FileSystem.md)
+### 5. Memory 
+[Read here](/QA/Memory.md)
+### 6. Networking 
+[Read here](/QA/Networking.md)
+### 7. Other 
+[Read here](/QA/Other.md)
 * Serial communication
   * UART
   * SPI
