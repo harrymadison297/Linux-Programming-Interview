@@ -66,3 +66,13 @@
 4. File System Management
 5. Memory
 6. Networking
+7. Other
+    * Serial communication
+      * UART
+      * SPI
+      * I2C
+      * USB
+    * Wireless communication
+      * Wifi
+      * BLE
+      * Zigbee
